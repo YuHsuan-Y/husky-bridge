@@ -1,6 +1,7 @@
 # Husky Bridge
 
 A collaborative student project focused on building a bridge between students and resources at Northeastern University.
+
 Collaborative-projects: https://github.com/joe135730/husky-bridge
 
 
